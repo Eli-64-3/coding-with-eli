@@ -82,4 +82,5 @@ def view_history():
 if __name__ == "__main__":
     run_quiz()
     view_history()
-    
+
+#end 😎
