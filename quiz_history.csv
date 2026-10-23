@@ -1,0 +1,2 @@
+date,score,details
+2026-10-23 15:25:49,3/3,"[{'question': 'What is the capital of France?', 'your_answer': 'C', 'correct_answer': 'C', 'result': 'Correct'}, {'question': 'Which language is primarily used for data science?', 'your_answer': 'A', 'correct_answer': 'A', 'result': 'Correct'}, {'question': 'What does SQL stand for?', 'your_answer': 'A', 'correct_answer': 'A', 'result': 'Correct'}]"
