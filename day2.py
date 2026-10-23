@@ -1,0 +1,2 @@
+name = "eli"
+print(name)
